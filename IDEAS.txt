@@ -1,0 +1,9 @@
+CLEAN CODE
+Score limit.
+
+
+
+Catches/bugs
+Allow users to join midway
+
+
